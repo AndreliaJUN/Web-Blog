@@ -1,10 +1,7 @@
 # 收藏的博客文章
 
----
-目录：
 [TOC]
 
----
 ## JavaScript部分
 
 ### 一、继承
@@ -14,4 +11,4 @@
 - [面试官问：JS的继承](https://juejin.im/post/5c433e216fb9a049c15f841b#heading-3)
 *new、Object.create和Object.setPrototypeOf可以设置__proto__*
 
-----
+
