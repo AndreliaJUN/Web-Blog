@@ -4,6 +4,10 @@
 
 ## JavaScript部分
 
+### js学习网站
+
+- [牛客精品，js系列教程](https://www.nowcoder.com/tutorial/10009/93ea8bfac75844888a914d1b8741b791)
+
 ### 一、继承
 
 - [【何不三连】做完这48道题彻底弄懂JS继承(1.7w字含辛整理-返璞归真)](https://juejin.im/post/5e75e22951882549027687f9#heading-41)
@@ -33,3 +37,4 @@
 ### 三、其他零散的文章
 
 - [二叉树的前中后序遍历](https://www.cnblogs.com/zmc940317/articles/10925497.html)
+- [JS家的排序算法](https://www.jianshu.com/p/1b4068ccd505)
