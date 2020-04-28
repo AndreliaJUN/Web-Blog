@@ -2,6 +2,12 @@
 
 [TOC]
 
+## CSS部分
+
+### css学习网站
+
+- [牛客精品，css系列教程](https://www.nowcoder.com/tutorial/10008/65f51fce70b149fda820e21b8f3183d4)
+
 ## JavaScript部分
 
 ### js学习网站
