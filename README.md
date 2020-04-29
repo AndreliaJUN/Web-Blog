@@ -45,18 +45,27 @@
 - [二叉树的前中后序遍历](https://www.cnblogs.com/zmc940317/articles/10925497.html)
 - [JS家的排序算法](https://www.jianshu.com/p/1b4068ccd505)
 
-## 比较好的个人博客或网站
+## 博客或网站
 
+- [前端乐园](https://share.aoping.club/)
+- [前端面试每日 3+1](https://github.com/haizlin/fe-interview?utm_source=gold_browser_extension)
 - [神三元的博客](http://47.98.159.95/my_blog/nav/#html%E9%83%A8%E5%88%86)
-- [ConardLi的blog](http://www.conardli.top/blog/article/)
+- [ConardLi的blog(awesome-coding-js的作者)](http://www.conardli.top/blog/article/)
 - [hpoenixf大佬的博客](http://hpoenixf.com/archives/)
 - [前端进阶系列-目录](http://hpoenixf.com/%E5%89%8D%E7%AB%AF%E8%BF%9B%E9%98%B6%E7%B3%BB%E5%88%97-%E7%9B%AE%E5%BD%95.html)
+- [张旭鑫博客里的好文推荐](https://www.zhangxinxu.com/php/myRecomm.php?&paged=0)
+- [张旭鑫的博客](https://www.zhangxinxu.com/)
+- [前端学习建议 | 书籍和资料推荐](https://zhuanlan.zhihu.com/p/37625259)
 
 ## 面经
 
 - [这可能不只是一篇面经](https://www.nowcoder.com/discuss/29890?type=2&order=0&pos=16&page=7)
 - [不要让春招的悲剧再次上演，好吗？](https://www.nowcoder.com/discuss/204872)
 - [最后一面《HR面》------十大经典提问](https://www.cnblogs.com/syfwhu/p/4431143.html#)
-- [张旭鑫博客里的好文推荐](https://www.zhangxinxu.com/php/myRecomm.php?&paged=0)
-- [张旭鑫的博客](https://www.zhangxinxu.com/)
-- [前端学习建议 | 书籍和资料推荐](https://zhuanlan.zhihu.com/p/37625259)
+- [前端新手如何做简历](https://zhuanlan.zhihu.com/p/23105699)
+- [淘系面经分享之系列三(前端)阿里老学长](https://www.nowcoder.com/discuss/417887)
+- [收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)
+- [前端Bven同学的春招总结(已拿微信offer，阿里offer审批中，美团继续等待HR面) ](https://juejin.im/post/5e82fb6e6fb9a03c75753628#heading-14)
+- [双非院校，成绩不好的他Bven，怎么突然拿到大厂offer了？](https://juejin.im/post/5e9ac2006fb9a03c763d174c)
+- [阿里前端攻城狮们又写了一份面试题答案，请查收](https://juejin.im/post/5e82aa8df265da47ca6910b5#heading-16)
+- [2020年前端面试复习必读文章【超百篇文章/赠复习导图】](https://juejin.im/post/5e8b163ff265da47ee3f54a6#heading-25)
