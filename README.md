@@ -58,9 +58,11 @@
 - [FE-Interview前端面试题整理poetries](http://blog.poetries.top/FE-Interview-Questions/)
 - [poetries的博客](https://blog.poetries.top/archives/)
 - [前端工程师面试宝典](https://fecommunity.github.io/front-end-interview/)
+- [面试资源汇总](https://github.com/abc-club/js-paradise/blob/master/INTERVIEW.md)
 - [前端乐园](https://share.aoping.club/)
 - [前端面试每日 3+1](https://github.com/haizlin/fe-interview?utm_source=gold_browser_extension)
 - [收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)
+- [GitHub最全前端资源汇总](http://fenghub.top/front-end-index/index.html)
 - [神三元的博客](http://47.98.159.95/my_blog/nav/#html%E9%83%A8%E5%88%86)
 - [ConardLi的blog(awesome-coding-js的作者)](http://www.conardli.top/blog/article/)
 - [jacleklm的博客(非科班自学前端进字节)](https://jacleklm.github.io/)
@@ -75,6 +77,7 @@
 ## 掘金
 
 - [神三元掘金主页](https://juejin.im/user/5c45ddf06fb9a04a006f5491/posts)
+- [霖呆呆掘金主页（强推，通俗易懂）](https://juejin.im/user/59ffc33751882554b836ee63/posts)
 
 ## 面经
 
@@ -89,3 +92,5 @@
 - [2020年前端面试复习必读文章【超百篇文章/赠复习导图】](https://juejin.im/post/5e8b163ff265da47ee3f54a6#heading-25)
 - [技术面试最后反问面试官的话](https://github.com/yifeikong/reverse-interview-zh)
 - [掘金的面试集合榜单](https://github.com/shfshanyue/blog/blob/master/post/juejin-interview.md)
+- [大厂面经合集](https://juejin.im/post/5e731c4c51882549112b5c2d)
+- [【新鲜面经】 四月面试不用慌，掘友攻略来帮忙| 掘金技术征文展（第一弹）](https://juejin.im/post/5e86e9da5188257391463c1d#heading-5)
