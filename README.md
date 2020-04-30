@@ -34,11 +34,17 @@
 
 - [awesome-coding-js/剑指offer/](https://github.com/ConardLi/awesome-coding-js/tree/master/%E5%89%91%E6%8C%87offer)
 
-### 二、神三元
+### 二、神三元(字节跳动)
 
 - [前端算法系统练习指南](http://47.98.159.95/leetcode-js/nav/#%E9%80%82%E7%94%A8%E4%BA%BA%E7%BE%A4)
 
 - [神三元的博客](http://47.98.159.95/my_blog/nav/#html%E9%83%A8%E5%88%86)
+
+### 三、lucifer
+
+- [大前端面试宝典 - 图解前端(宇宙最强的前端面试指南 )](https://lucifer.ren/fe-interview/#/)
+
+- [leetcode 解题之路](http://lucifer.ren/leetcode/)
 
 ### 三、其他零散的文章
 
@@ -47,12 +53,14 @@
 
 ## 博客或网站
 
+- [大前端面试宝典 - 图解前端(宇宙最强的前端面试指南 )lucifer](https://lucifer.ren/fe-interview/#/)
+- [前端入门和进阶学习笔记，超详细的Web前端学习图文教程。（关于面试的建议细看）](https://github.com/qianguyihao/Web)
+- [FE-Interview前端面试题整理poetries](http://blog.poetries.top/FE-Interview-Questions/)
+- [poetries的博客](https://blog.poetries.top/archives/)
+- [前端工程师面试宝典](https://fecommunity.github.io/front-end-interview/)
 - [前端乐园](https://share.aoping.club/)
 - [前端面试每日 3+1](https://github.com/haizlin/fe-interview?utm_source=gold_browser_extension)
-- [FE-Interview
-前端面试题整理poetries](http://blog.poetries.top/FE-Interview-Questions/)
 - [收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)
-- [poetries的博客](https://blog.poetries.top/archives/)
 - [神三元的博客](http://47.98.159.95/my_blog/nav/#html%E9%83%A8%E5%88%86)
 - [ConardLi的blog(awesome-coding-js的作者)](http://www.conardli.top/blog/article/)
 - [jacleklm的博客(非科班自学前端进字节)](https://jacleklm.github.io/)
@@ -60,8 +68,13 @@
 - [前端进阶系列-目录hpoenixf总结的](http://hpoenixf.com/%E5%89%8D%E7%AB%AF%E8%BF%9B%E9%98%B6%E7%B3%BB%E5%88%97-%E7%9B%AE%E5%BD%95.html)
 - [张旭鑫博客里的好文推荐](https://www.zhangxinxu.com/php/myRecomm.php?&paged=0)
 - [张旭鑫的博客](https://www.zhangxinxu.com/)
+- [阮一峰博客](http://www.ruanyifeng.com/home.html)
 - [前端学习建议 | 书籍和资料推荐](https://zhuanlan.zhihu.com/p/37625259)
 - [一只程序媛，感谢牛友的帮忙，列个前端复习大纲回馈各位。](https://blog.nowcoder.net/yiizgo)
+
+## 掘金
+
+- [神三元掘金主页](https://juejin.im/user/5c45ddf06fb9a04a006f5491/posts)
 
 ## 面经
 
@@ -74,3 +87,5 @@
 - [双非院校，成绩不好的他Bven，怎么突然拿到大厂offer了？](https://juejin.im/post/5e9ac2006fb9a03c763d174c)
 - [阿里前端攻城狮们又写了一份面试题答案，请查收](https://juejin.im/post/5e82aa8df265da47ca6910b5#heading-16)
 - [2020年前端面试复习必读文章【超百篇文章/赠复习导图】](https://juejin.im/post/5e8b163ff265da47ee3f54a6#heading-25)
+- [技术面试最后反问面试官的话](https://github.com/yifeikong/reverse-interview-zh)
+- [掘金的面试集合榜单](https://github.com/shfshanyue/blog/blob/master/post/juejin-interview.md)
