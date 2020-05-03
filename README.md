@@ -48,11 +48,13 @@
 
 ### 三、其他零散的文章
 
+- [十大经典排序算法总结（JavaScript描述）](https://github.com/damonare/Sorts)
 - [二叉树的前中后序遍历](https://www.cnblogs.com/zmc940317/articles/10925497.html)
 - [JS家的排序算法](https://www.jianshu.com/p/1b4068ccd505)
 
 ## 博客或网站
 
+- [前端面试与进阶指南](https://www.cxymsg.com/)
 - [大前端面试宝典 - 图解前端(宇宙最强的前端面试指南 )lucifer](https://lucifer.ren/fe-interview/#/)
 - [前端入门和进阶学习笔记，超详细的Web前端学习图文教程。（关于面试的建议细看）](https://github.com/qianguyihao/Web)
 - [FE-Interview前端面试题整理poetries](http://blog.poetries.top/FE-Interview-Questions/)
@@ -61,6 +63,7 @@
 - [面试资源汇总](https://github.com/abc-club/js-paradise/blob/master/INTERVIEW.md)
 - [前端乐园](https://share.aoping.club/)
 - [前端面试每日 3+1](https://github.com/haizlin/fe-interview?utm_source=gold_browser_extension)
+- [前端面试必备技巧](https://juejin.im/post/5eace2176fb9a04340658974?utm_source=gold_browser_extension)
 - [收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)
 - [GitHub最全前端资源汇总](http://fenghub.top/front-end-index/index.html)
 - [神三元的博客](http://47.98.159.95/my_blog/nav/#html%E9%83%A8%E5%88%86)
@@ -85,6 +88,7 @@
 - [不要让春招的悲剧再次上演，好吗？](https://www.nowcoder.com/discuss/204872)
 - [最后一面《HR面》------十大经典提问](https://www.cnblogs.com/syfwhu/p/4431143.html#)
 - [前端新手如何做简历](https://zhuanlan.zhihu.com/p/23105699)
+- [救救自己，别再这样写简历了](https://juejin.im/post/5ea59d91518825736512f3b8#heading-4)
 - [淘系面经分享之系列三(前端)阿里老学长](https://www.nowcoder.com/discuss/417887)
 - [前端Bven同学的春招总结(已拿微信offer，阿里offer审批中，美团继续等待HR面) ](https://juejin.im/post/5e82fb6e6fb9a03c75753628#heading-14)
 - [双非院校，成绩不好的他Bven，怎么突然拿到大厂offer了？](https://juejin.im/post/5e9ac2006fb9a03c763d174c)
@@ -94,3 +98,8 @@
 - [掘金的面试集合榜单](https://github.com/shfshanyue/blog/blob/master/post/juejin-interview.md)
 - [大厂面经合集](https://juejin.im/post/5e731c4c51882549112b5c2d)
 - [【新鲜面经】 四月面试不用慌，掘友攻略来帮忙| 掘金技术征文展（第一弹）](https://juejin.im/post/5e86e9da5188257391463c1d#heading-5)
+- [本人面试两个月真实经历：面试了20家大厂之后，发现这样介绍项目经验，显得项目很牛逼！](https://juejin.im/post/5eaa2a3cf265da7b95054e54#heading-0)
+- [论前端面试：项目经验](https://juejin.im/post/5b55f79a5188251aa30c69ed#heading-3)
+- [面试被问项目经验不用慌，按这个步骤回答绝对惊艳](https://juejin.im/post/5e7aed9c6fb9a07cac1d872d#heading-6)
+- [react项目实战——为什么要用react？](https://juejin.im/post/5c930b02e51d450d597ea3be#heading-1)
+- [非科班二本前端大厂面试的心路历程和总结](https://juejin.im/post/5e818e4de51d4546fb276d97#heading-7)
