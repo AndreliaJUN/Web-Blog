@@ -51,6 +51,7 @@
 - [十大经典排序算法总结（JavaScript描述）](https://github.com/damonare/Sorts)
 - [二叉树的前中后序遍历](https://www.cnblogs.com/zmc940317/articles/10925497.html)
 - [JS家的排序算法](https://www.jianshu.com/p/1b4068ccd505)
+- [【萌新入门】面试官：请你写一个斐波那契数列，并且用动态规划求解！](https://juejin.im/post/5eae4453e51d454d980e392b?utm_source=gold_browser_extension#comment)
 
 ## 博客或网站
 
@@ -103,3 +104,6 @@
 - [面试被问项目经验不用慌，按这个步骤回答绝对惊艳](https://juejin.im/post/5e7aed9c6fb9a07cac1d872d#heading-6)
 - [react项目实战——为什么要用react？](https://juejin.im/post/5c930b02e51d450d597ea3be#heading-1)
 - [非科班二本前端大厂面试的心路历程和总结](https://juejin.im/post/5e818e4de51d4546fb276d97#heading-7)
+- [网页性能优化的经验](https://juejin.im/post/5bbaa549e51d450e827b6b13#heading-7)
+- [面试官，不要再问我三次握手和四次挥手
+](https://juejin.im/post/5d9c284b518825095879e7a5)
