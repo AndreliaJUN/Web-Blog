@@ -21,6 +21,16 @@
 - [面试官问：JS的继承](https://juejin.im/post/5c433e216fb9a049c15f841b#heading-3)
 (*new、Object.create和Object.setPrototypeOf可以设置__proto__*)
 
+### 二、原型
+
+- [2020面试收获 - js原型及原型链](https://juejin.im/post/5e6e000fe51d4526f071efea#heading-29)
+
+## 计算机网络部分
+
+- [一篇文章带你熟悉 TCP/IP 协议（网络协议篇二）](https://juejin.im/post/5a069b6d51882509e5432656#heading-9)
+- [网页性能优化的经验](https://juejin.im/post/5bbaa549e51d450e827b6b13#heading-7)
+- [面试官，不要再问我三次握手和四次挥手](https://juejin.im/post/5d9c284b518825095879e7a5)
+
 ## 数据结构与算法部分
 
 ### 一、ConardLi的blog
@@ -108,5 +118,5 @@
 - [面试被问项目经验不用慌，按这个步骤回答绝对惊艳](https://juejin.im/post/5e7aed9c6fb9a07cac1d872d#heading-6)
 - [react项目实战——为什么要用react？](https://juejin.im/post/5c930b02e51d450d597ea3be#heading-1)
 - [非科班二本前端大厂面试的心路历程和总结](https://juejin.im/post/5e818e4de51d4546fb276d97#heading-7)
-- [网页性能优化的经验](https://juejin.im/post/5bbaa549e51d450e827b6b13#heading-7)
-- [面试官，不要再问我三次握手和四次挥手](https://juejin.im/post/5d9c284b518825095879e7a5)
+- [挑战一轮大厂后的面试总结 (含六个方向) - javascript 篇(万字长文)](https://juejin.im/post/5e523e726fb9a07c9a195a95#comment)
+- [杭州前端面试通关新手入门指南（大佬请绕道） | 掘金技术征文。](https://juejin.im/post/5e928ae7f265da47a7412eb1)
