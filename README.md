@@ -82,9 +82,12 @@
 
 - [神三元掘金主页](https://juejin.im/user/5c45ddf06fb9a04a006f5491/posts)
 - [霖呆呆掘金主页（强推，通俗易懂）](https://juejin.im/user/59ffc33751882554b836ee63/posts)
+- [掘金面试文章排行榜](https://github.com/shfshanyue/blog/blob/master/post/juejin-interview.md)
 
 ## 面经
 
+- [《开发岗校招求职攻略》](https://www.nowcoder.com/tutorial/10017/index)
+- [求职经验分享之前端篇(牛客课程)](https://www.nowcoder.com/study/vod/103)
 - [这可能不只是一篇面经](https://www.nowcoder.com/discuss/29890?type=2&order=0&pos=16&page=7)
 - [不要让春招的悲剧再次上演，好吗？](https://www.nowcoder.com/discuss/204872)
 - [最后一面《HR面》------十大经典提问](https://www.cnblogs.com/syfwhu/p/4431143.html#)
@@ -105,5 +108,4 @@
 - [react项目实战——为什么要用react？](https://juejin.im/post/5c930b02e51d450d597ea3be#heading-1)
 - [非科班二本前端大厂面试的心路历程和总结](https://juejin.im/post/5e818e4de51d4546fb276d97#heading-7)
 - [网页性能优化的经验](https://juejin.im/post/5bbaa549e51d450e827b6b13#heading-7)
-- [面试官，不要再问我三次握手和四次挥手
-](https://juejin.im/post/5d9c284b518825095879e7a5)
+- [面试官，不要再问我三次握手和四次挥手](https://juejin.im/post/5d9c284b518825095879e7a5)
