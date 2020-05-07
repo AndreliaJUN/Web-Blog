@@ -93,6 +93,7 @@
 - [最后一面《HR面》------十大经典提问](https://www.cnblogs.com/syfwhu/p/4431143.html#)
 - [前端新手如何做简历](https://zhuanlan.zhihu.com/p/23105699)
 - [救救自己，别再这样写简历了](https://juejin.im/post/5ea59d91518825736512f3b8#heading-4)
+- [在阿里我是如何当面试官的（持续更新）](https://juejin.im/post/5e6ebfa86fb9a07ca714d0ec#heading-123)
 - [淘系面经分享之系列三(前端)阿里老学长](https://www.nowcoder.com/discuss/417887)
 - [前端Bven同学的春招总结(已拿微信offer，阿里offer审批中，美团继续等待HR面) ](https://juejin.im/post/5e82fb6e6fb9a03c75753628#heading-14)
 - [双非院校，成绩不好的他Bven，怎么突然拿到大厂offer了？](https://juejin.im/post/5e9ac2006fb9a03c763d174c)
