@@ -92,6 +92,7 @@
 - [张旭鑫的博客](https://www.zhangxinxu.com/)
 - [阮一峰博客](http://www.ruanyifeng.com/home.html)
 - [前端学习建议 | 书籍和资料推荐](https://zhuanlan.zhihu.com/p/37625259)
+- [前端小智](https://github.com/qq449245884/xiaozhi)
 - [一只程序媛，感谢牛友的帮忙，列个前端复习大纲回馈各位。](https://blog.nowcoder.net/yiizgo)
 
 ## 掘金
