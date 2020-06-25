@@ -25,6 +25,10 @@
 
 - [2020面试收获 - js原型及原型链](https://juejin.im/post/5e6e000fe51d4526f071efea#heading-29)
 
+### 三、闭包
+
+- [面试官问我：什么是JavaScript闭包，我该如何回答？](https://juejin.im/post/5ef338606fb9a07e68354e9b?utm_source=gold_browser_extension)
+
 ## 计算机网络部分
 
 - [一篇文章带你熟悉 TCP/IP 协议（网络协议篇二）](https://juejin.im/post/5a069b6d51882509e5432656#heading-9)
@@ -63,6 +67,8 @@
 
 ### 三、其他零散的文章
 
+- [前端算法渣的救赎之路](https://juejin.im/post/5ed32e0151882542fd351696?utm_source=gold_browser_extension)
+- [前端瓶子君-前端进阶算法](https://juejin.im/user/5c8f1c6b5188252d65343ff4/posts)
 - [十大经典排序算法总结（JavaScript描述）](https://github.com/damonare/Sorts)
 - [二叉树的前中后序遍历](https://www.cnblogs.com/zmc940317/articles/10925497.html)
 - [JS家的排序算法](https://www.jianshu.com/p/1b4068ccd505)
@@ -71,6 +77,7 @@
 
 ## 博客或网站
 
+- [前端面试精粹](https://827652549.github.io/my-book/#/)
 - [前端面试与进阶指南](https://www.cxymsg.com/)
 - [大前端面试宝典 - 图解前端(宇宙最强的前端面试指南 )lucifer](https://lucifer.ren/fe-interview/#/)
 - [前端入门和进阶学习笔记，超详细的Web前端学习图文教程。（关于面试的建议细看）](https://github.com/qianguyihao/Web)
@@ -104,6 +111,8 @@
 
 ## 面经
 
+- [前端职业规划 - 前端技术专家们的生死书](https://juejin.im/post/5ef38a42e51d45348e278903?utm_source=gold_browser_extension#heading-6)
+- [万字长文干货，面试官角度看面试](https://juejin.im/post/5ef2a80ae51d4573e919cbe8?utm_source=gold_browser_extension)
 - [《开发岗校招求职攻略》](https://www.nowcoder.com/tutorial/10017/index)
 - [求职经验分享之前端篇(牛客课程)](https://www.nowcoder.com/study/vod/103)
 - [这可能不只是一篇面经](https://www.nowcoder.com/discuss/29890?type=2&order=0&pos=16&page=7)
@@ -126,7 +135,7 @@
 - [面试被问项目经验不用慌，按这个步骤回答绝对惊艳](https://juejin.im/post/5e7aed9c6fb9a07cac1d872d#heading-6)
 - [react项目实战——为什么要用react？](https://juejin.im/post/5c930b02e51d450d597ea3be#heading-1)
 - [你要的 React 面试知识点，都在这了](https://juejin.im/post/5cf0733de51d4510803ce34e)
-- [非科班二本前端大厂面试的心路历程和总结](https://juejin.im/post/5e818e4de51d4546fb276d97#heading-7)
+- [非科班二本前端大厂面试的心路历程和总结](https://juejin.im/post/5e818e4de51d4546fb276d97)
 - [挑战一轮大厂后的面试总结 (含六个方向) - javascript 篇(万字长文)](https://juejin.im/post/5e523e726fb9a07c9a195a95#comment)
 - [杭州前端面试通关新手入门指南（大佬请绕道） | 掘金技术征文。](https://juejin.im/post/5e928ae7f265da47a7412eb1)
 - [腾讯CSIG前端实习上岸面经（内含视频版面经）](https://www.nowcoder.com/discuss/424076)
@@ -134,3 +143,7 @@
 - [个人秋招经验总结（前端方向）](https://www.nowcoder.com/discuss/258810?type=post&order=time&pos=&page=3)
 - [web前端面试总结(自认为还算全面哈哈哈哈哈！！！！）](https://juejin.im/post/5dafb263f265da5b9b80244d)
 - [一篇还算正规的前端面经](https://www.nowcoder.com/discuss/122092)
+- [无他，唯手熟尔-前端实习面试题篇](https://juejin.im/post/58cdf9285c497d0057c3b591)
+- [一些 Web 前端题目解析](https://juejin.im/entry/580302b52e958a0055d4a341)
+- [前端小白进阶之路，获字节、快手、网易雷火精英offer面经分享](https://juejin.im/post/5eabcfde5188256d72314515)
+- [前端秋招心得之我要进BAT](https://zhuanlan.zhihu.com/p/91002776)
