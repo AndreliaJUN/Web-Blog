@@ -108,6 +108,7 @@
 - [霖呆呆掘金主页（强推，通俗易懂）](https://juejin.im/user/59ffc33751882554b836ee63/posts)
 - [子奕（阿里巴巴面试官）](https://juejin.im/user/5c35502ae51d45522160d7dd/posts)
 - [掘金面试文章排行榜](https://github.com/shfshanyue/blog/blob/master/post/juejin-interview.md)
+- [monkeysoft](https://juejin.im/user/5f02e9176fb9a07e6e1150c0/posts)
 
 ## 面经
 
